@@ -1,0 +1,33 @@
+REPONSES
+
+Bases du développement web
+
+Le développement web, c'est la création et la maintenance de sites web et d'applications web. C'est essentiel car Internet fait 
+partie intégrante de nos vies, facilitant la communication, le commerce, l'accès à l'information, et bien plus encore.
+
+Connaissances HTML
+
+HTML, ou HyperText Markup Language, est fondamental pour structurer le contenu des pages web, comme les titres, les 
+paragraphes, les images, et les liens.
+
+Compréhension de CSS
+
+CSS, ou Cascading Style Sheets permet de définir la présentation visuelle des pages web. C'est grâce à CSS que je peux styliser 
+les éléments HTML pour rendre les sites web attrayants et cohérents.
+
+Introduction à JavaScript
+
+C'est un langage de programmation crucial pour ajouter de l'interactivité aux sites web, permettant de créer des fonctionnalités 
+dynamiques comme des formulaires interactifs, des animations et des mises à jour de contenu en temps réel.
+
+Connaissance de React et Node.js 
+
+React est une bibliothèque JavaScript utilisée pour construire des interfaces utilisateur interactives et réutilisables.
+Node.js est un environnement d'exécution JavaScript côté serveur permettant de créer des applications réseau rapides et 
+évolutives, souvent utilisées pour des API et des services backend.
+
+Intentions d'apprentissage
+
+Je veux apprendre le développement web pour plusieurs raisons : construire des projets personnels, améliorer mes 
+opportunités professionnelles, contribuer à des projets open-source, et comprendre et façonner le monde numérique qui nous 
+entoure.
